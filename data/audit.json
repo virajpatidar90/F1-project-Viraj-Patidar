@@ -1,0 +1,83 @@
+{
+  "source_url": "https://docs.google.com/spreadsheets/d/1x-RIZzVA_9xfKgnXQgBv8s9pANqzgiNJ/edit",
+  "sheets": {
+    "circuits": {
+      "rows": 29,
+      "columns": 9,
+      "duplicate_rows": 0,
+      "nulls": {}
+    },
+    "championship_standings": {
+      "rows": 311,
+      "columns": 10,
+      "duplicate_rows": 0,
+      "nulls": {}
+    },
+    "lap_intelligence": {
+      "rows": 3814,
+      "columns": 14,
+      "duplicate_rows": 0,
+      "nulls": {}
+    },
+    "qualifying_results": {
+      "rows": 3130,
+      "columns": 16,
+      "duplicate_rows": 0,
+      "nulls": {}
+    },
+    "race_results": {
+      "rows": 6464,
+      "columns": 42,
+      "duplicate_rows": 0,
+      "nulls": {
+        "finish_position": 396,
+        "positions_gained": 396,
+        "dnf_reason": 6068,
+        "gap_to_leader_s": 396,
+        "total_race_time_s": 6130
+      }
+    }
+  },
+  "combined_rows": 13748,
+  "metrics": {
+    "race_entries": 6464,
+    "distinct_races": 334,
+    "seasons": 17,
+    "teams": 10,
+    "drivers": 19,
+    "catalog_circuits": 29,
+    "active_circuits": 24,
+    "host_countries": 21,
+    "dnfs": 396,
+    "completion_rate": 0.9387376237623762,
+    "podiums": 940,
+    "points": 31906
+  },
+  "dnf_reasons": {
+    "Engine": 73,
+    "Hydraulics": 70,
+    "Mechanical": 67,
+    "Brake failure": 64,
+    "Gearbox": 62,
+    "Collision": 60
+  },
+  "date_min": "2010-03-01",
+  "date_max": "2026-08-02",
+  "standings_mismatches": 0,
+  "duplicate_race_driver_keys": 334,
+  "standings_missing_matches": {
+    "both": 311,
+    "left_only": 0,
+    "right_only": 0
+  },
+  "notes": [
+    "The source contains contemporary drivers in 2010 and placeholder Driver_N/Team_N qualifying values. Treat results as supplied educational data, not verified historical Formula 1 results.",
+    "country is the race host country; no driver nationality column is present. The map measures driver participation in host countries, not nationality.",
+    "29 circuits exist in the catalog, but only 24 occur in race_results.",
+    "race_results has 42 original columns, not the 41 stated in the brief.",
+    "starting_compound counts one starting tyre compound per race entry. It is not the count of all tyres or laps used.",
+    "Keep annual championship standings separate from race-level data. Never join the two facts on season alone.",
+    "Carlos Sainz occurs for Ferrari and Williams within the same races (334 repeated race-driver keys). Preserve distinct source entries but disclose this source anomaly. Driver totals aggregate both teams.",
+    "Race data grain is race_id + driver + team. Qualifying requires the same keys; lap data lacks team and must remain separate to avoid ambiguous links."
+  ]
+}

@@ -1,0 +1,128 @@
+driver,dnf_reason_display,entries,dnfs
+Alex Albon,Brake failure,1,1
+Alex Albon,Collision,3,3
+Alex Albon,Engine,3,3
+Alex Albon,Finished,315,0
+Alex Albon,Gearbox,2,2
+Alex Albon,Hydraulics,4,4
+Alex Albon,Mechanical,6,6
+Carlos Sainz,Brake failure,5,5
+Carlos Sainz,Collision,3,3
+Carlos Sainz,Engine,4,4
+Carlos Sainz,Finished,634,0
+Carlos Sainz,Gearbox,6,6
+Carlos Sainz,Hydraulics,10,10
+Carlos Sainz,Mechanical,6,6
+Charles Leclerc,Brake failure,7,7
+Charles Leclerc,Collision,3,3
+Charles Leclerc,Engine,4,4
+Charles Leclerc,Finished,306,0
+Charles Leclerc,Gearbox,6,6
+Charles Leclerc,Hydraulics,5,5
+Charles Leclerc,Mechanical,3,3
+Esteban Ocon,Brake failure,3,3
+Esteban Ocon,Collision,5,5
+Esteban Ocon,Engine,7,7
+Esteban Ocon,Finished,313,0
+Esteban Ocon,Gearbox,4,4
+Esteban Ocon,Hydraulics,1,1
+Esteban Ocon,Mechanical,1,1
+Fernando Alonso,Brake failure,4,4
+Fernando Alonso,Collision,5,5
+Fernando Alonso,Engine,4,4
+Fernando Alonso,Finished,309,0
+Fernando Alonso,Gearbox,5,5
+Fernando Alonso,Hydraulics,4,4
+Fernando Alonso,Mechanical,3,3
+George Russell,Brake failure,3,3
+George Russell,Collision,3,3
+George Russell,Engine,3,3
+George Russell,Finished,317,0
+George Russell,Gearbox,1,1
+George Russell,Hydraulics,2,2
+George Russell,Mechanical,5,5
+Kevin Magnussen,Brake failure,3,3
+Kevin Magnussen,Collision,2,2
+Kevin Magnussen,Engine,4,4
+Kevin Magnussen,Finished,206,0
+Kevin Magnussen,Gearbox,3,3
+Kevin Magnussen,Hydraulics,3,3
+Kevin Magnussen,Mechanical,5,5
+Lance Stroll,Brake failure,3,3
+Lance Stroll,Collision,3,3
+Lance Stroll,Finished,313,0
+Lance Stroll,Gearbox,4,4
+Lance Stroll,Hydraulics,5,5
+Lance Stroll,Mechanical,6,6
+Lando Norris,Brake failure,4,4
+Lando Norris,Collision,2,2
+Lando Norris,Engine,5,5
+Lando Norris,Finished,318,0
+Lando Norris,Gearbox,1,1
+Lando Norris,Hydraulics,3,3
+Lando Norris,Mechanical,1,1
+Lewis Hamilton,Brake failure,3,3
+Lewis Hamilton,Collision,2,2
+Lewis Hamilton,Finished,322,0
+Lewis Hamilton,Gearbox,2,2
+Lewis Hamilton,Hydraulics,3,3
+Lewis Hamilton,Mechanical,2,2
+Liam Lawson,Brake failure,3,3
+Liam Lawson,Collision,5,5
+Liam Lawson,Engine,4,4
+Liam Lawson,Finished,310,0
+Liam Lawson,Gearbox,6,6
+Liam Lawson,Hydraulics,2,2
+Liam Lawson,Mechanical,4,4
+Max Verstappen,Brake failure,3,3
+Max Verstappen,Collision,1,1
+Max Verstappen,Finished,317,0
+Max Verstappen,Gearbox,3,3
+Max Verstappen,Hydraulics,3,3
+Max Verstappen,Mechanical,7,7
+Nico Hülkenberg,Brake failure,1,1
+Nico Hülkenberg,Collision,1,1
+Nico Hülkenberg,Engine,5,5
+Nico Hülkenberg,Finished,208,0
+Nico Hülkenberg,Gearbox,4,4
+Nico Hülkenberg,Hydraulics,4,4
+Nico Hülkenberg,Mechanical,3,3
+Oscar Piastri,Brake failure,2,2
+Oscar Piastri,Collision,1,1
+Oscar Piastri,Engine,7,7
+Oscar Piastri,Finished,310,0
+Oscar Piastri,Gearbox,7,7
+Oscar Piastri,Hydraulics,4,4
+Oscar Piastri,Mechanical,3,3
+Pierre Gasly,Brake failure,4,4
+Pierre Gasly,Collision,3,3
+Pierre Gasly,Engine,4,4
+Pierre Gasly,Finished,316,0
+Pierre Gasly,Hydraulics,3,3
+Pierre Gasly,Mechanical,4,4
+Sergio Perez,Brake failure,8,8
+Sergio Perez,Collision,8,8
+Sergio Perez,Engine,6,6
+Sergio Perez,Finished,305,0
+Sergio Perez,Gearbox,2,2
+Sergio Perez,Hydraulics,2,2
+Sergio Perez,Mechanical,3,3
+Valtteri Bottas,Brake failure,3,3
+Valtteri Bottas,Collision,5,5
+Valtteri Bottas,Engine,2,2
+Valtteri Bottas,Finished,318,0
+Valtteri Bottas,Hydraulics,5,5
+Valtteri Bottas,Mechanical,1,1
+Yuki Tsunoda,Brake failure,3,3
+Yuki Tsunoda,Collision,5,5
+Yuki Tsunoda,Engine,6,6
+Yuki Tsunoda,Finished,311,0
+Yuki Tsunoda,Gearbox,3,3
+Yuki Tsunoda,Hydraulics,5,5
+Yuki Tsunoda,Mechanical,1,1
+Zhou Guanyu,Brake failure,1,1
+Zhou Guanyu,Engine,5,5
+Zhou Guanyu,Finished,320,0
+Zhou Guanyu,Gearbox,3,3
+Zhou Guanyu,Hydraulics,2,2
+Zhou Guanyu,Mechanical,3,3
